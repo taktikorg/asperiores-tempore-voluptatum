@@ -1,3 +1,6 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# async-hook
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+The work done in this repository has now been integrated into the built-in
+node.js `async_hooks` module.
+
+All issues regarding `async_hooks` should be posted in https://github.com/nodejs/node.
